@@ -27,6 +27,8 @@ need = """
 
 5 - Знать, как устроена сеть (DHCP, DNS, Routers, Server, Client, IP, TCP, UPD, SMTP, Ports, Subnetting etc.)
 
+6 - Уметь работать с Git, Linux
+
 *Не страшно, если Вы всего не знаете. Все мы были такими."""
 
 channel = "ℹ️ Канал: @devs_ch"
