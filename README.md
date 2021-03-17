@@ -1,6 +1,9 @@
-# Простой Telegram бот
+# Simple Telegram bot
 
-Простой Telegram бот, написанный на Python с использованием AIOGram.
-Создан для того, чтобы автоматизировать такие задачи как: объяснения кто мы, и что мы делаем; как с нами связаться; подать анкету для вступления в команду; предложения и идеи.
+## For what?
 
-###### Возможно, что иногда бот будет модифицироваться.
+> This Bot was created to automate answering questions
+
+---
+
+[Write to Bot (Russian)](https://t.me/red_parrot_bot)

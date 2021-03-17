@@ -22,8 +22,8 @@ async def requirements(message: types.Message):
 # Информация о нас
 @dp.message_handler(commands=['info'])
 async def info(message: types.Message):
-    await message.answer("{0}\n\n{1}\n\n{2}\n{3}".format(Text.info, Text.chat, 
-    Text.channel, Text.contact))
+    await message.answer("{0}\n\n{1}\n\n{2}".format(Text.info, Text.chat, 
+    Text.channel))
 
 
 # Анкета для вступления в команду
